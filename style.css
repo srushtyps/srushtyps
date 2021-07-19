@@ -414,7 +414,7 @@
 
 .hr{
 	display: flex;
-	transform:translateX(-600px);
+	float:left;
 	background:#dbf3fa;
 	
 	
